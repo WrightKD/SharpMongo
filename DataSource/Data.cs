@@ -76,12 +76,9 @@ namespace DataSource
             client = new MongoClient(connectingString);
 
             if (client is null)
-            {
                 Console.WriteLine("User/password is incorrect.");
-                client = null;// Need to change.
-            }
-
-            return client;
+                
+             return client;
         }
 
        public void add(string collectionName, IDictionary contents, string databaseName = "application-data")

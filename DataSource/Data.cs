@@ -37,7 +37,7 @@ namespace DataSource
         }
     
 
-        static readonly string connectingString = "mongodb://Admin:B12AgR281O4Qmelc@iot-ai-shard-00-00-rjyq3.mongodb.net:27017" +
+        static readonly string connectingString = "mongodb://Admin:<PASSWORD>@iot-ai-shard-00-00-rjyq3.mongodb.net:27017" +
                                                   ",iot-ai-shard-00-01-rjyq3.mongodb.net:27017" +
                                                   ",iot-ai-shard-00-02-rjyq3.mongodb.net:27017" +
                                                   "/application-data" +

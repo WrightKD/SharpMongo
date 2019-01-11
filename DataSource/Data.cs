@@ -37,11 +37,7 @@ namespace DataSource
         }
     
 
-        static readonly string connectingString = "mongodb://Admin:<PASSWORD>@iot-ai-shard-00-00-rjyq3.mongodb.net:27017" +
-                                                  ",iot-ai-shard-00-01-rjyq3.mongodb.net:27017" +
-                                                  ",iot-ai-shard-00-02-rjyq3.mongodb.net:27017" +
-                                                  "/application-data" +
-                                                  "?ssl=true&replicaSet=IoT-AI-shard-0&authSource=admin&retryWrites=true";
+        static readonly string connectingString = "connection string to DB"
 
         private Data()
         {

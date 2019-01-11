@@ -1,13 +1,13 @@
 # Sharp Mongo
 
-Pymongo syntax usage for c# MongoDB access and usage. 
+Pymongo syntax usage for c# MongoDB access and usage. [IMPORTANT : THIS PROJECT IS MISSING THE DLL UNTIL A STABLE VERISON IS AVAILABLE.]
 
 ## Installation
 
 Clone from Azure
 
 ```bash
-git clone -b Regression repo
+git clone repo
 ```
 
 ## Usage

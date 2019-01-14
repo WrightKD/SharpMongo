@@ -4,10 +4,10 @@ Pymongo syntax usage for c# MongoDB access and usage. [IMPORTANT : THIS PROJECT 
 
 ## Installation
 
-Clone from Azure
+Clone from here
 
 ```bash
-git clone repo
+git clone https://github.com/WrightKD/SharpMongo.git
 ```
 
 ## Usage
